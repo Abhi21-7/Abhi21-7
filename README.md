@@ -1,7 +1,10 @@
-## Hi 👋 I'm Abhishek Agnihotri
+## 👋 Hi, I'm Abhishek Agnihotri
 
 # 💫 About Me:
-A Full Stack Web developer🎯 and designer🎨 from India.<br>🔭 I’m currently working on full stack web development<br>🌱 I’m currently learning next.js
+👋 Hi, I'm Abhishek Agnihotri
+💻 MERN Stack Developer | 🎓 BCA Student (Computer Science)
+🚀 Passionate about building full-stack web applications
+📚 Currently learning: Next.js
 
 
 ## 🌐 Socials:
