@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Abhishek Agnihotri
+## Hi 👋 I'm Abhishek Agnihotri
 
 # 💫 About Me:
 A Full Stack Web developer🎯 and designer🎨 from India.<br>🔭 I’m currently working on full stack web development<br>🌱 I’m currently learning next.js
