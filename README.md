@@ -1,10 +1,9 @@
 ## 👋 Hi, I'm Abhishek Agnihotri
 
 # 💫 About Me:
-👋 Hi, I'm Abhishek Agnihotri
-💻 MERN Stack Developer | 🎓 BCA Student (Computer Science)
-🚀 Passionate about building full-stack web applications
-📚 Currently learning: Next.js
+💻 MERN Stack Developer | 🎓 BCA Student (Computer Science) <br>
+🚀 Passionate about building full-stack web applications <br>
+📚 Currently learning: Next.js <br>
 
 
 ## 🌐 Socials:
